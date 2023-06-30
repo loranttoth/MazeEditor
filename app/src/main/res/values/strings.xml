@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MazeEditor</string>
+    <string name="rows_prompt">Sorok:</string>
+    <string name="cols_prompt">Oszlopok:</string>
+</resources>
